@@ -116,6 +116,8 @@ GPT-4-Turbo, Deepseek-R1, Llama-3.1-70B, Qwen-2.5-7B, Mixtral-8x7B, GPT-3.5-Turb
 
 ### Job Role Knowledge Alignment ###
 
+To evaluate how well these LLMs’ knowledge aligns with the specific requirements of real-world cybersecurity positions, we gather job requirements from companies such as Amazon, Google, and Microsoft. Based on role descriptions, we manually map these requirements to our knowledge points. In total, we identify six distinct roles for the analysis: Google’s Senior Intelligence Analyst and Red Team Security Consultant, Amazon’s Privacy Engineer, ISC Security Engineer, and Security Engineer, and Microsoft’s Red Team Security Engineer. The mapped knowledge points for each job role is provided in [job_map.json](assets/extras/job_map.json).
+
 ![bar](assets/images/job_bar.png)
 
 ![Radar](assets/images/job_radar.png)
