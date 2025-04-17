@@ -1,12 +1,12 @@
 # CSEBenchmark - Cyber Security Expert Benchmark
 
-<p><a href="#"><img alt="CSEBenchmark thumbnail" align="right" width="200" src="assets/images/thumbnail.png"></a></p>
+<p><a href="https://arxiv.org/abs/2504.11783"><img alt="CSEBenchmark thumbnail" align="right" width="200" src="assets/images/thumbnail.png"></a></p>
 
 The implementation of the paper titled **"The Digital Cybersecurity Expert: How Far Have We Come?"**
 
 CSEBenchmark is the first cognitive science-based, fine-grained knowledge assessment framework, encompassing 345 fine-grained knowledge points across seven key subdomains critical for cybersecurity experts.
 
-For more details, please refer to [our paper](#) from IEEE S&P'25.
+For more details, please refer to [our paper](https://arxiv.org/abs/2504.11783) from IEEE S&P'25.
 
 ## Structure ##
 
