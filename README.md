@@ -134,7 +134,7 @@ Thank you for helping us make CSEBenchmark more accurate, comprehensive, and use
 
 Thanks to Dawei Wang ([@4ugustus](https://github.com/waugustus)), Geng Zhou ([@Arbusz](https://github.com/Arbusz)), and Xianglong Li ([@ybhl](https://github.com/yhblkey)) for their valuable contributions to this project.
 
-## Citing this paper ##
+## Citing This Paper ##
 
 In case you would like to cite CSEBenchmark, you may use the following BibTex entry:
 
@@ -149,3 +149,7 @@ In case you would like to cite CSEBenchmark, you may use the following BibTex en
   year = {2025}
 }
 ```
+
+## Star History ##
+
+[![Stargazers over time](https://starchart.cc/NASP-THU/CSEBenchmark.svg?variant=adaptive)](https://starchart.cc/NASP-THU/CSEBenchmark)
