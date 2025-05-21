@@ -1,12 +1,12 @@
 # CSEBenchmark - Cyber Security Expert Benchmark
 
-<p><a href="https://arxiv.org/abs/2504.11783"><img alt="CSEBenchmark thumbnail" align="right" width="200" src="assets/images/thumbnail.png"></a></p>
+<p><a href="https://www.computer.org/csdl/proceedings-article/sp/2025/223600d032/26hiVhc2DLO"><img alt="CSEBenchmark thumbnail" align="right" width="200" src="assets/images/thumbnail.png"></a></p>
 
 The implementation of the paper titled **"The Digital Cybersecurity Expert: How Far Have We Come?"**
 
 CSEBenchmark is the first cognitive science-based, fine-grained knowledge assessment framework, encompassing 345 fine-grained knowledge points across seven key subdomains critical for cybersecurity experts.
 
-For more details, please refer to [our paper](https://arxiv.org/abs/2504.11783) from IEEE S&P'25.
+For more details, please refer to [our paper](https://www.computer.org/csdl/proceedings-article/sp/2025/223600d032/26hiVhc2DLO) from IEEE S&P'25.
 
 ## Structure ##
 
@@ -144,8 +144,8 @@ In case you would like to cite CSEBenchmark, you may use the following BibTex en
   author = {Wang, Dawei and Zhou, Geng and Li, Xianglong and Bai, Yu and Chen, Li and Qin, Ting and Sun, Jian and Li, Dan},
   booktitle = {2025 IEEE Symposium on Security and Privacy (SP)},
   publisher = {Association for Computing Machinery},
-  organization={IEEE},
-  pages = {},
+  organization={IEEE Computer Society}
+  pages={3032--3049},
   year = {2025}
 }
 ```
